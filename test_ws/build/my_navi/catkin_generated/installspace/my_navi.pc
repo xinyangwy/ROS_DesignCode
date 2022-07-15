@@ -1,0 +1,8 @@
+prefix=/home/xinyang/test_ws/install
+
+Name: my_navi
+Description: Description of my_navi
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

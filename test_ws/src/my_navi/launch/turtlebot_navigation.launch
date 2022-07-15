@@ -1,0 +1,34 @@
+<launch>
+  <!-- Arguments -->
+  <arg name="model" default="$(env TURTLEBOT3_MODEL)" doc="model type [burger, waffle, waffle_pi]"/>
+  <arg name="open_rviz" default="true"/>
+  <arg name="move_forward_only" default="false"/>
+
+  <!-- Turtlebot3 -->
+  <include file="$(find turtlebot3_bringup)/launch/turtlebot3_remote.launch">
+    <arg name="model" value="$(arg model)" />
+  </include>
+
+  <!-- Map server -->
+  <arg name="map_file"       default="$(find my_navi)/map/map2.yaml"/>
+  <node pkg="map_server" type="map_server" name="map_server" args="$(arg map_file)">
+	<param name="frame_id" value="/map" />
+  </node>
+
+  <node pkg="my_navi" name="my_navi" type="main.py">
+  </node>
+
+
+
+  <!-- AMCL -->
+  <include file="$(find my_navi)/params/amcl.launch"/>
+
+  <!-- move_base -->
+  <include file="$(find my_navi)/params/move_base.launch">
+    <arg name="model" value="$(arg model)" />
+    <arg name="move_forward_only" value="$(arg move_forward_only)"/>
+  </include>
+  <node pkg="rviz" type="rviz" name="rviz" required="true"
+          args="-d $(find turtlebot3_navigation)/rviz/turtlebot3_navigation.rviz" output="screen"/>
+
+</launch>

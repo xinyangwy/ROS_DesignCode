@@ -1,0 +1,8 @@
+prefix=/home/xinyang/catkin_ws/install
+
+Name: voice_system
+Description: Description of voice_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

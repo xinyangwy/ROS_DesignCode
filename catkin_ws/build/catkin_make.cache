@@ -1,0 +1,2 @@
+voice_system
+-DCATKIN_DEVEL_PREFIX=/home/xinyang/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xinyang/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,332 @@
+[
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/c++  -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/src/YoloObjectDetector.cpp.o -c /home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/src/YoloObjectDetector.cpp",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/src/YoloObjectDetector.cpp"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/src/image_interface.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/src/image_interface.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/src/image_interface.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/activation_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/activation_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/activation_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/im2col.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/im2col.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/im2col.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/activations.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/activations.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/activations.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/image.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/image.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/image.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/avgpool_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/avgpool_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/avgpool_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/batchnorm_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/batchnorm_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/batchnorm_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/list.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/list.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/list.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/blas.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/blas.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/blas.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/local_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/local_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/local_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/box.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/box.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/box.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/lstm_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/lstm_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/lstm_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/col2im.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/col2im.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/col2im.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/matrix.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/matrix.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/matrix.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/connected_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/connected_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/connected_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/maxpool_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/maxpool_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/maxpool_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/convolutional_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/convolutional_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/convolutional_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/network.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/network.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/network.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/cost_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/cost_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/cost_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/normalization_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/normalization_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/normalization_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/crnn_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/crnn_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/crnn_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/option_list.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/option_list.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/option_list.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/crop_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/crop_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/crop_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/parser.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/parser.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/parser.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/cuda.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/cuda.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/cuda.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/region_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/region_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/region_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/data.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/data.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/data.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/reorg_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/reorg_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/reorg_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/deconvolutional_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/deconvolutional_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/deconvolutional_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/rnn_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/rnn_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/rnn_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/demo.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/demo.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/demo.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/route_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/route_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/route_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/detection_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/detection_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/detection_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/shortcut_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/shortcut_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/shortcut_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/dropout_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/dropout_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/dropout_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/softmax_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/softmax_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/softmax_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/gemm.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/gemm.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/gemm.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/tree.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/tree.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/tree.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/gru_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/gru_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/gru_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/utils.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/utils.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/utils.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/upsample_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/upsample_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/upsample_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/logistic_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/logistic_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/logistic_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/l2norm_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/l2norm_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/l2norm_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/yolo_layer.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/src/yolo_layer.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/src/yolo_layer.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/art.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/art.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/art.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/lsd.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/lsd.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/lsd.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/attention.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/attention.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/attention.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/nightmare.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/nightmare.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/nightmare.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/captcha.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/captcha.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/captcha.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/regressor.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/regressor.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/regressor.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/cifar.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/cifar.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/cifar.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/rnn.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/rnn.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/rnn.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/classifier.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/classifier.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/classifier.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/segmenter.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/segmenter.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/segmenter.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/coco.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/coco.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/coco.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/super.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/super.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/super.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/darknet.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/darknet.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/darknet.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/tag.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/tag.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/tag.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/detector.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/detector.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/detector.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/yolo.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/yolo.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/yolo.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/cc -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -O3 -DNDEBUG -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/go.c.o   -c /home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/go.c",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet/examples/go.c"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/c++  -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -I/usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -std=c++11  -O3 -DNDEBUG   -O4 -g -o CMakeFiles/darknet_ros_object_detection-test.dir/test/test_main.cpp.o -c /home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/test/test_main.cpp",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/test/test_main.cpp"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/c++  -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -I/usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -std=c++11  -O3 -DNDEBUG   -O4 -g -o CMakeFiles/darknet_ros_object_detection-test.dir/test/ObjectDetection.cpp.o -c /home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/test/ObjectDetection.cpp",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/test/ObjectDetection.cpp"
+},
+{
+  "directory": "/home/xinyang/yolo_ws/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/c++  -DDARKNET_FILE_PATH=\\\"/home/xinyang/yolo_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -isystem /usr/include/opencv -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/src -I/home/xinyang/yolo_ws/src/darknet_ros/darknet/include -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/home/xinyang/yolo_ws/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -O4 -g -o CMakeFiles/darknet_ros.dir/src/yolo_object_detector_node.cpp.o -c /home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/src/yolo_object_detector_node.cpp",
+  "file": "/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/src/yolo_object_detector_node.cpp"
+}
+]

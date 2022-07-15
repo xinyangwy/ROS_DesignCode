@@ -1,0 +1,2 @@
+my_navi
+-DCATKIN_DEVEL_PREFIX=/home/xinyang/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xinyang/test_ws/install -G Unix Makefiles

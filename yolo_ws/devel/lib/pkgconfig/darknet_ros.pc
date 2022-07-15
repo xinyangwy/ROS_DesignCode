@@ -1,0 +1,8 @@
+prefix=/home/xinyang/yolo_ws/devel
+
+Name: darknet_ros
+Description: Description of darknet_ros
+Version: 1.1.4
+Cflags: -I/home/xinyang/yolo_ws/src/darknet_ros/darknet_ros/include -I/usr/include
+Libs: -L${prefix}/lib -ldarknet_ros_lib /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: cv_bridge roscpp actionlib rospy std_msgs darknet_ros_msgs image_transport

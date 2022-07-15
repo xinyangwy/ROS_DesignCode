@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:mrobot_gazebo:mrobot_teleop
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/xinyang/yolo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xinyang/yolo_ws/install -G Unix Makefiles
