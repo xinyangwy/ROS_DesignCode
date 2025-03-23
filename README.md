@@ -37,7 +37,8 @@ Ros melodic
 # 四、场景搭建、建图与导航模块
 ## 4.1 场景搭建
 + gazebo Building Editor
-  ![gazebo Building Editor](https://i-blog.csdnimg.cn/blog_migrate/7061d7815ee2d85767db99b16a17822c.png)
+  ![image](https://github.com/user-attachments/assets/4a2477f4-79cd-4441-affd-c0d34acc4729)
+
 + 场景概览
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/278436a8b639b3b15f54c62e592bb5ce.png)
 由于官方的模型库中没有我所使用的YOLO模型中能够检测到的特征鲜明的物体，如猫、狗、大象、马、苹果、香蕉等，所以部分物体（如图中的香蕉）放在相框中的图片中进行识别。
@@ -45,7 +46,8 @@ Ros melodic
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/a6a9a1ee278050379e3038f485d961d0.png)
 ## 4.2 小车模型
 本次课设使用的是TurtleBot3中的Waffle小车，下图中的中间一个（含有雷达与摄像头）
-![请添加图片描述](https://i-blog.csdnimg.cn/blog_migrate/60636edc01ba18b8bfcb06eb9e629755.png)
+![image](https://github.com/user-attachments/assets/d623708e-08b7-4fc6-8aed-19a209692889)
+
 小车模型在rviz中展示
 ![请添加图片描述](https://i-blog.csdnimg.cn/blog_migrate/a754c1867af2f5c7cb80393c036d4ab4.png)
 ## 4.3 导航模块
