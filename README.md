@@ -7,7 +7,7 @@
 
 
 
-@[toc]
+----
 # 注意事项：
 实验的过程中遇到了许多的bug和问题，例如：
 + YOLO模块检测物体的时候检测框的左上角不出现文字（后来发现是缺少labels文件）；
@@ -37,7 +37,7 @@ Ros melodic
 # 四、场景搭建、建图与导航模块
 ## 4.1 场景搭建
 + gazebo Building Editor
-![gazebo Building Editor](https://i-blog.csdnimg.cn/blog_migrate/7061d7815ee2d85767db99b16a17822c.png)
+  ![gazebo Building Editor](https://i-blog.csdnimg.cn/blog_migrate/7061d7815ee2d85767db99b16a17822c.png)
 + 场景概览
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/blog_migrate/278436a8b639b3b15f54c62e592bb5ce.png)
 由于官方的模型库中没有我所使用的YOLO模型中能够检测到的特征鲜明的物体，如猫、狗、大象、马、苹果、香蕉等，所以部分物体（如图中的香蕉）放在相框中的图片中进行识别。
